@@ -68,3 +68,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # expense-manager
 # ready for deploy
 # i run this program in my htdocs using XAMPP
+# once you set the user in add user under user management > Ex. if your name is Juan Dela Cruz your password will be JuanDelaCruz
